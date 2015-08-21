@@ -1,4 +1,4 @@
-# acad_savetimealtert
+# acad_savetimealert
 simple lisp script that warns you when <i>savetie</i> changes.
 
 #usage
